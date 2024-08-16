@@ -1,0 +1,10 @@
+03/05/2024 13:23:00 - Internal - Could not execute code stage because exception thrown by code stage: A column named 'name' already belongs to this DataTable.
+03/05/2024 13:23:00 - Internal - Could not execute code stage because exception thrown by code stage: A column named 'name' already belongs to this DataTable.
+03/05/2024 13:23:00 - Internal - Could not execute code stage because exception thrown by code stage: A column named 'name' already belongs to this DataTable.
+20/05/2024 17:54:00 - Internal - Failed to perform step 1 in Navigate Stage 'Launch' on page 'Launch' - Failed to launch - Object reference not set to an instance of an object.
+20/05/2024 17:58:00 - Internal - Failed to perform step 1 in Navigate Stage 'Launch' on page 'Launch' - Failed to launch - Object reference not set to an instance of an object.
+20/05/2024 18:00:00 - Internal - Failed to perform step 1 in Navigate Stage 'Activate and Author Search' on page 'Navigate to Author Search ' - Unable to match any windows with the query terms
+20/05/2024 18:04:00 - Internal - Failed to perform step 2 in Navigate Stage 'Activate and Scroll Down' on page 'Extrac Results' - Cannot find region identified as an image.
+21/05/2024 12:54:00 - Internal - Failed to perform step 1 in Navigate Stage 'Launch' on page 'Launch' - Failed to launch - Object reference not set to an instance of an object.
+21/05/2024 12:58:00 - Internal - Failed to perform step 1 in Navigate Stage 'Launch' on page 'Launch' - Failed to launch - Object reference not set to an instance of an object.
+21/05/2024 13:16:00 - Internal - Failed to perform step 2 in Navigate Stage 'Activate and Scroll Down' on page 'Extrac Results' - Cannot find region identified as an image.
